@@ -43,7 +43,7 @@ const Footer = () => {
                 <p>BBB Accredited Charity</p>
               </div>
             </div>
-            <div className="space-y-[1.4rem] text-center lg:pt-0 pt-8">
+            <div className="space-y-[1.4rem]  md:text-left text-center lg:pt-0 pt-8">
               <h1 className="lg:text-[1.5rem] text-[1.2rem] font-semibold">Explore Rise Up</h1>
               <div className="lg:text-[1rem] text-[0.8rem] font-normal lg:space-y-[1rem] space-y-[0.75rem]">
                 <p>About Us</p>
@@ -53,7 +53,7 @@ const Footer = () => {
                 <p>FAQ</p>
               </div>
             </div>
-            <div className="space-y-[1.4rem] lg:pt-0 pt-10 text-center">
+            <div className="space-y-[1.4rem] lg:pt-0 pt-10  md:text-left text-center">
               <h1 className="lg:text-[1.5rem] text-[1.2rem] font-semibold ">Resources</h1>
               <div className="lg:text-[1rem] text-[0.8rem] font-normal lg:space-y-[1rem] space-y-[0.75rem]">
                 <p>Inspirational Stories</p>
@@ -65,7 +65,7 @@ const Footer = () => {
               </div>
             </div>
             <div>
-              <div className="space-y-[1.4rem] lg:pt-0 pt-10 text-center">
+              <div className="space-y-[1.4rem] lg:pt-0 pt-10 md:text-left text-center">
                 <h1 className="lg:text-[1.5rem] text-[1.2rem] font-semibold">
                   Community & Growth
                 </h1>
