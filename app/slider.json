@@ -1,0 +1,24 @@
+[
+  {
+    "src": "/images/sara.webp",
+    "quotep1": "Fall seven times, stand up eight.",
+    "quotep2": "Japanese Proverb",
+    "cardH1": "Inspirational Story of the Month",
+    "cardp": "From adversity to artistic triumph, Sarah's determination shines.Her thriving business inspires others to pursue their passions.",
+    "cardButton": "Read Sarah's Full Story"
+  },
+  {
+    "src": "/images/calm.jpg",
+    "quotep1": "The mind is everything; what you think, you become.",
+    "cardH1": "5 Mindfulness Techniques to Boost Productivity",
+    "cardp": "Enhance productivity with mindfulness techniques like deep breathing and gratitude. Transform your workday and reduce stress.",
+    "cardButton": "Read the Full Article"
+  },
+  {
+    "src": "/images/upcoming.jpg",
+    "quotep1": "Saturday, March 21st 9:00 AM - 5:00 PM Downtown Convention Center",
+    "cardH1": "Rise Up: Empowerment Conference",
+    "cardp": "Join us for a day of inspiration and connection. Hear from experts, network with peers, and leave empowered to achieve your goals.",
+    "cardButton": "Register Now"
+  }
+]
