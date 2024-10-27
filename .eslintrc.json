@@ -1,6 +1,7 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
-    "rule-name": "off" // Replace 'rule-name' with the actual rule you want to disable
+    "no-console": "off", // Disable the no-console rule
+    "another-rule": "off" // Add any other rules you want to disable
   }
 }
