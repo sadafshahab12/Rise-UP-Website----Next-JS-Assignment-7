@@ -18,10 +18,10 @@ export function CarouselDemo() {
       <CarouselContent>
         {slider.map((slider, index) => (
           <CarouselItem key={index}>
-            <div className=" bg-papayawhip md:p-5 p-2 rounded-[0.9rem]">
-              <Card className=" bg-transparent border-none shadow-none ">
-                <div className="image flex justify-center items-center gap-3 pt-4">
-                  <div className="sm:w-[8rem] w-[5rem] sm:h-[8rem] h-[5rem] rounded-full">
+            <div className="  md:p-5 p-1 rounded-[0.9rem]">
+              <Card className="  border-none shadow-none ">
+                <div className="image  flex justify-center items-center gap-3 pt-4  p-2">
+                  <div className="sm:w-[8rem] w-[5rem] sm:h-[8rem] h-[5rem] rounded-full ">
                     <Image
                       src={slider.src}
                       alt="featureimg"
@@ -30,8 +30,8 @@ export function CarouselDemo() {
                       className="w-full h-full rounded-full object-cover"
                     />
                   </div>
-                  <div className="sm:w-[8.8rem] w-[7rem] sm:h-[6rem] h-[5rem] rounded-[0.5rem] shadow-downshadow ">
-                    <div className="bg-white sm:space-y-4 space-y-2 p-2 rounded-[0.5rem] w-full h-full  ">
+                  <div className="sm:w-[8.8rem]  w-[7rem] sm:h-[6rem] h-[5rem] rounded-[0.5rem] shadow-downshadow ">
+                    <div className="bg-white  sm:space-y-4 space-y-2 p-2 rounded-[0.5rem] w-full h-full  ">
                       <p className="sm:text-[0.7rem] text-[0.6rem] text-[#5F5A5A]">
                         {slider.quotep1}
                       </p>
@@ -41,9 +41,9 @@ export function CarouselDemo() {
                     </div>
                   </div>
                 </div>
-                <CardContent className="flex  items-center justify-center ">
-                  <span >
-                    <div className="space-y-[1.3rem] pt-[0.6rem] text-center">
+                <CardContent className="flex  items-center justify-center  ">
+                  <span   >
+                    <div className="space-y-[1.3rem] pt-[0.6rem] text-center ">
                       <h1 className="sm:text-[1rem]  text-[0.8rem] font-semibold ">
                         {slider.cardH1}
                       </h1>
