@@ -1,13 +1,13 @@
 import React from "react";
 import stories from "@/app/stories.json";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "../components/ui/card";
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from "@/components/ui/carousel";
+} from "../components/ui/carousel";
 
 const SuccessStories = () => {
   return (

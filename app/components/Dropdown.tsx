@@ -8,7 +8,7 @@ import {
   DropdownMenuCheckboxItem,
   DropdownMenuContent,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
+} from "../components/ui/dropdown-menu";
 import Link from "next/link";
 
 type Checked = DropdownMenuCheckboxItemProps["checked"];

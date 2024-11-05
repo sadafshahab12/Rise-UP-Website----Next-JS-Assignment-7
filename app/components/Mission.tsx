@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import TeamCard from "@/components/TeamCard";
+import TeamCard from "../components/TeamCard";
 const Mission = () => {
   return (
     <>

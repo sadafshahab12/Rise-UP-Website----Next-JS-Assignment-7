@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Montserrat } from "next/font/google";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 const montserrat = Montserrat({
   weight: ["400", "700"],

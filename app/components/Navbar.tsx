@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
-import { Dropdown } from "@/components/Dropdown";
+import { Dropdown } from "../components/Dropdown";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

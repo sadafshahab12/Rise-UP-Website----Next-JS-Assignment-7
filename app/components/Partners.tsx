@@ -1,5 +1,5 @@
 import React from "react";
-import PartnerCard from "@/components/PartnerCard";
+import PartnerCard from "../components/PartnerCard";
 
 const Partners = () => {
   return (

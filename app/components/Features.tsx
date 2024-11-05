@@ -1,6 +1,6 @@
 import React from "react";
 import FeatureCard from "./FeatureCard";
-import { CarouselDemo } from "@/components/CarouselDemo";
+import { CarouselDemo } from "../components/CarouselDemo";
 
 const Features = () => {
   return (
